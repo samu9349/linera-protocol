@@ -1,5 +1,4 @@
 135
-
 # Word list for cargo-spellcheck
 # Hunspell format: https://www.systutorials.com/docs/linux/man/4-hunspell/
 
